@@ -12,3 +12,4 @@ D:\Cursos\C#\C-Intermedio\Practica1\Practica1\obj\Debug\net8.0\refint\Practica1.
 D:\Cursos\C#\C-Intermedio\Practica1\Practica1\obj\Debug\net8.0\Practica1.pdb
 D:\Cursos\C#\C-Intermedio\Practica1\Practica1\obj\Debug\net8.0\Practica1.genruntimeconfig.cache
 D:\Cursos\C#\C-Intermedio\Practica1\Practica1\obj\Debug\net8.0\ref\Practica1.dll
+D:\Cursos\C#\C-Intermedio\Practica1\Practica1\obj\Debug\net8.0\Practica1.sourcelink.json
