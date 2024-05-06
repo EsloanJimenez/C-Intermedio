@@ -1,0 +1,15 @@
+D:\Cursos\C#\C-Intermedio\Programa1\Programa1\bin\Debug\net8.0\Programa1.exe
+D:\Cursos\C#\C-Intermedio\Programa1\Programa1\bin\Debug\net8.0\Programa1.deps.json
+D:\Cursos\C#\C-Intermedio\Programa1\Programa1\bin\Debug\net8.0\Programa1.runtimeconfig.json
+D:\Cursos\C#\C-Intermedio\Programa1\Programa1\bin\Debug\net8.0\Programa1.dll
+D:\Cursos\C#\C-Intermedio\Programa1\Programa1\bin\Debug\net8.0\Programa1.pdb
+D:\Cursos\C#\C-Intermedio\Programa1\Programa1\obj\Debug\net8.0\Programa1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C#\C-Intermedio\Programa1\Programa1\obj\Debug\net8.0\Programa1.AssemblyInfoInputs.cache
+D:\Cursos\C#\C-Intermedio\Programa1\Programa1\obj\Debug\net8.0\Programa1.AssemblyInfo.cs
+D:\Cursos\C#\C-Intermedio\Programa1\Programa1\obj\Debug\net8.0\Programa1.csproj.CoreCompileInputs.cache
+D:\Cursos\C#\C-Intermedio\Programa1\Programa1\obj\Debug\net8.0\Programa1.sourcelink.json
+D:\Cursos\C#\C-Intermedio\Programa1\Programa1\obj\Debug\net8.0\Programa1.dll
+D:\Cursos\C#\C-Intermedio\Programa1\Programa1\obj\Debug\net8.0\refint\Programa1.dll
+D:\Cursos\C#\C-Intermedio\Programa1\Programa1\obj\Debug\net8.0\Programa1.pdb
+D:\Cursos\C#\C-Intermedio\Programa1\Programa1\obj\Debug\net8.0\Programa1.genruntimeconfig.cache
+D:\Cursos\C#\C-Intermedio\Programa1\Programa1\obj\Debug\net8.0\ref\Programa1.dll
