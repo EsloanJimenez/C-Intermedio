@@ -3,3 +3,13 @@ D:\Cursos\C#\C-Intermedio\Practica2\Practica2\obj\Debug\net8.0\Practica2.Assembl
 D:\Cursos\C#\C-Intermedio\Practica2\Practica2\obj\Debug\net8.0\Practica2.AssemblyInfo.cs
 D:\Cursos\C#\C-Intermedio\Practica2\Practica2\obj\Debug\net8.0\Practica2.csproj.CoreCompileInputs.cache
 D:\Cursos\C#\C-Intermedio\Practica2\Practica2\obj\Debug\net8.0\Practica2.sourcelink.json
+D:\Cursos\C#\C-Intermedio\Practica2\Practica2\bin\Debug\net8.0\Practica2.exe
+D:\Cursos\C#\C-Intermedio\Practica2\Practica2\bin\Debug\net8.0\Practica2.deps.json
+D:\Cursos\C#\C-Intermedio\Practica2\Practica2\bin\Debug\net8.0\Practica2.runtimeconfig.json
+D:\Cursos\C#\C-Intermedio\Practica2\Practica2\bin\Debug\net8.0\Practica2.dll
+D:\Cursos\C#\C-Intermedio\Practica2\Practica2\bin\Debug\net8.0\Practica2.pdb
+D:\Cursos\C#\C-Intermedio\Practica2\Practica2\obj\Debug\net8.0\Practica2.dll
+D:\Cursos\C#\C-Intermedio\Practica2\Practica2\obj\Debug\net8.0\refint\Practica2.dll
+D:\Cursos\C#\C-Intermedio\Practica2\Practica2\obj\Debug\net8.0\Practica2.pdb
+D:\Cursos\C#\C-Intermedio\Practica2\Practica2\obj\Debug\net8.0\Practica2.genruntimeconfig.cache
+D:\Cursos\C#\C-Intermedio\Practica2\Practica2\obj\Debug\net8.0\ref\Practica2.dll

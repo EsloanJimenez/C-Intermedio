@@ -1,21 +1,6 @@
-﻿using static System.Runtime.InteropServices.JavaScript.JSType;
-using static System.Console;
-public class Persona {
+﻿using Practica2;
 
-    private string nombre;
-    private int edad;
-    private string direccion;
-    private string correoElectronico;
+Imprimir mostrarDatos = new Imprimir();
 
-    public void EnviarCorreoElectronico(string mensaje)
-    {
-        // Lógica para enviar correo electrónico
-    }
-
-    public void ImprimirDatos() { 
-        WriteLine($"Nombre: {nombre}");
-        WriteLine($"Edad: {edad}");
-        WriteLine($"Dirección: {direccion}");
-        WriteLine($"Correo electrónico: {correoElectronico}");
-    }
-}
+mostrarDatos.ImprimirDatos();
+mostrarDatos.EnviarCorreoElectronico("Mandame una cotizacion de una boda para 200 personas con todo sus servicios incluidos.");
