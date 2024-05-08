@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PracticaOCP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8afa0ba5ee4b99eec164c597299c54b281cb917e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ad6e5f5a4ae22564122cf5a5f649de021dad364")]
 [assembly: System.Reflection.AssemblyProductAttribute("PracticaOCP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PracticaOCP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

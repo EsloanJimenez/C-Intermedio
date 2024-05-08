@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Cursos\\C#\\C-Intermedio\\PracticaOCP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9F5D4157-E0BF-4CE8-9917-D38054D1EEF2}|PracticaOCP\\PracticaOCP.csproj|d:\\cursos\\c#\\c-intermedio\\practicaocp\\practicaocp\\taxcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F5D4157-E0BF-4CE8-9917-D38054D1EEF2}|PracticaOCP\\PracticaOCP.csproj|solutionrelative:practicaocp\\taxcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9F5D4157-E0BF-4CE8-9917-D38054D1EEF2}|PracticaOCP\\PracticaOCP.csproj|d:\\cursos\\c#\\c-intermedio\\practicaocp\\practicaocp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F5D4157-E0BF-4CE8-9917-D38054D1EEF2}|PracticaOCP\\PracticaOCP.csproj|solutionrelative:practicaocp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -13,20 +17,39 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 531,
+          "DockedHeight": 263,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Cursos\\C#\\C-Intermedio\\PracticaOCP\\PracticaOCP\\Program.cs",
               "RelativeDocumentMoniker": "PracticaOCP\\Program.cs",
               "ToolTip": "D:\\Cursos\\C#\\C-Intermedio\\PracticaOCP\\PracticaOCP\\Program.cs",
               "RelativeToolTip": "PracticaOCP\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-07T00:18:33.095Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 799,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaxCalculator.cs",
+              "DocumentMoniker": "D:\\Cursos\\C#\\C-Intermedio\\PracticaOCP\\PracticaOCP\\TaxCalculator.cs",
+              "RelativeDocumentMoniker": "PracticaOCP\\TaxCalculator.cs",
+              "ToolTip": "D:\\Cursos\\C#\\C-Intermedio\\PracticaOCP\\PracticaOCP\\TaxCalculator.cs",
+              "RelativeToolTip": "PracticaOCP\\TaxCalculator.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwDwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T01:44:44.451Z",
               "EditorCaption": ""
             }
           ]

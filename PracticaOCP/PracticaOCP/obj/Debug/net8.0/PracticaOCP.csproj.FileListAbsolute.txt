@@ -1,0 +1,15 @@
+D:\Cursos\C#\C-Intermedio\PracticaOCP\PracticaOCP\bin\Debug\net8.0\PracticaOCP.exe
+D:\Cursos\C#\C-Intermedio\PracticaOCP\PracticaOCP\bin\Debug\net8.0\PracticaOCP.deps.json
+D:\Cursos\C#\C-Intermedio\PracticaOCP\PracticaOCP\bin\Debug\net8.0\PracticaOCP.runtimeconfig.json
+D:\Cursos\C#\C-Intermedio\PracticaOCP\PracticaOCP\bin\Debug\net8.0\PracticaOCP.dll
+D:\Cursos\C#\C-Intermedio\PracticaOCP\PracticaOCP\bin\Debug\net8.0\PracticaOCP.pdb
+D:\Cursos\C#\C-Intermedio\PracticaOCP\PracticaOCP\obj\Debug\net8.0\PracticaOCP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C#\C-Intermedio\PracticaOCP\PracticaOCP\obj\Debug\net8.0\PracticaOCP.AssemblyInfoInputs.cache
+D:\Cursos\C#\C-Intermedio\PracticaOCP\PracticaOCP\obj\Debug\net8.0\PracticaOCP.AssemblyInfo.cs
+D:\Cursos\C#\C-Intermedio\PracticaOCP\PracticaOCP\obj\Debug\net8.0\PracticaOCP.csproj.CoreCompileInputs.cache
+D:\Cursos\C#\C-Intermedio\PracticaOCP\PracticaOCP\obj\Debug\net8.0\PracticaOCP.sourcelink.json
+D:\Cursos\C#\C-Intermedio\PracticaOCP\PracticaOCP\obj\Debug\net8.0\PracticaOCP.dll
+D:\Cursos\C#\C-Intermedio\PracticaOCP\PracticaOCP\obj\Debug\net8.0\refint\PracticaOCP.dll
+D:\Cursos\C#\C-Intermedio\PracticaOCP\PracticaOCP\obj\Debug\net8.0\PracticaOCP.pdb
+D:\Cursos\C#\C-Intermedio\PracticaOCP\PracticaOCP\obj\Debug\net8.0\PracticaOCP.genruntimeconfig.cache
+D:\Cursos\C#\C-Intermedio\PracticaOCP\PracticaOCP\obj\Debug\net8.0\ref\PracticaOCP.dll
