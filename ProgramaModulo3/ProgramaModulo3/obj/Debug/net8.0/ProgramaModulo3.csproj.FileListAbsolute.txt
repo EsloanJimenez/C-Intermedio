@@ -1,0 +1,15 @@
+D:\Cursos\C#\C-Intermedio\ProgramaModulo3\ProgramaModulo3\bin\Debug\net8.0\ProgramaModulo3.exe
+D:\Cursos\C#\C-Intermedio\ProgramaModulo3\ProgramaModulo3\bin\Debug\net8.0\ProgramaModulo3.deps.json
+D:\Cursos\C#\C-Intermedio\ProgramaModulo3\ProgramaModulo3\bin\Debug\net8.0\ProgramaModulo3.runtimeconfig.json
+D:\Cursos\C#\C-Intermedio\ProgramaModulo3\ProgramaModulo3\bin\Debug\net8.0\ProgramaModulo3.dll
+D:\Cursos\C#\C-Intermedio\ProgramaModulo3\ProgramaModulo3\bin\Debug\net8.0\ProgramaModulo3.pdb
+D:\Cursos\C#\C-Intermedio\ProgramaModulo3\ProgramaModulo3\obj\Debug\net8.0\ProgramaModulo3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C#\C-Intermedio\ProgramaModulo3\ProgramaModulo3\obj\Debug\net8.0\ProgramaModulo3.AssemblyInfoInputs.cache
+D:\Cursos\C#\C-Intermedio\ProgramaModulo3\ProgramaModulo3\obj\Debug\net8.0\ProgramaModulo3.AssemblyInfo.cs
+D:\Cursos\C#\C-Intermedio\ProgramaModulo3\ProgramaModulo3\obj\Debug\net8.0\ProgramaModulo3.csproj.CoreCompileInputs.cache
+D:\Cursos\C#\C-Intermedio\ProgramaModulo3\ProgramaModulo3\obj\Debug\net8.0\ProgramaModulo3.sourcelink.json
+D:\Cursos\C#\C-Intermedio\ProgramaModulo3\ProgramaModulo3\obj\Debug\net8.0\ProgramaModulo3.dll
+D:\Cursos\C#\C-Intermedio\ProgramaModulo3\ProgramaModulo3\obj\Debug\net8.0\refint\ProgramaModulo3.dll
+D:\Cursos\C#\C-Intermedio\ProgramaModulo3\ProgramaModulo3\obj\Debug\net8.0\ProgramaModulo3.pdb
+D:\Cursos\C#\C-Intermedio\ProgramaModulo3\ProgramaModulo3\obj\Debug\net8.0\ProgramaModulo3.genruntimeconfig.cache
+D:\Cursos\C#\C-Intermedio\ProgramaModulo3\ProgramaModulo3\obj\Debug\net8.0\ref\ProgramaModulo3.dll

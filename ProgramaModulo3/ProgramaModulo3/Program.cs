@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using ProgramaModulo3;
+
+Empleado empleado = new Empleado
+{
+    Nombre = "Enrique",
+    Edad = 30,
+    Sueldo = 96540.87m
+};
+
+empleado.VerInfo();
