@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cursos\\C#\\C-Intermedio\\ProgramaModulo3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13E7EC84-E2E1-4884-A730-C6815CF10E7D}|ProgramaModulo3\\ProgramaModulo3.csproj|d:\\cursos\\c#\\c-intermedio\\programamodulo3\\programamodulo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13E7EC84-E2E1-4884-A730-C6815CF10E7D}|ProgramaModulo3\\ProgramaModulo3.csproj|solutionrelative:programamodulo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 1034,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cursos\\C#\\C-Intermedio\\ProgramaModulo3\\ProgramaModulo3\\Program.cs",
+              "RelativeDocumentMoniker": "ProgramaModulo3\\Program.cs",
+              "ToolTip": "D:\\Cursos\\C#\\C-Intermedio\\ProgramaModulo3\\ProgramaModulo3\\Program.cs",
+              "RelativeToolTip": "ProgramaModulo3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T19:15:38.774Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
