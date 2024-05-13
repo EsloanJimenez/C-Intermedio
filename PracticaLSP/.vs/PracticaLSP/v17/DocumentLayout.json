@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cursos\\C#\\C-Intermedio\\PracticaLSP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C4B1BC-68D1-4275-9930-45FF0B051772}|PracticaLSP\\PracticaLSP.csproj|d:\\cursos\\c#\\c-intermedio\\practicalsp\\practicalsp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C4B1BC-68D1-4275-9930-45FF0B051772}|PracticaLSP\\PracticaLSP.csproj|solutionrelative:practicalsp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 318,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cursos\\C#\\C-Intermedio\\PracticaLSP\\PracticaLSP\\Program.cs",
+              "RelativeDocumentMoniker": "PracticaLSP\\Program.cs",
+              "ToolTip": "D:\\Cursos\\C#\\C-Intermedio\\PracticaLSP\\PracticaLSP\\Program.cs",
+              "RelativeToolTip": "PracticaLSP\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:08:39.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
