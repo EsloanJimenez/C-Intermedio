@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PracticaDIP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34be5a085613ef399f91f3e3643f2c7c24ff8f82")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0500ac1eab596bb1ab1aafa211bfc13ee44e4591")]
 [assembly: System.Reflection.AssemblyProductAttribute("PracticaDIP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PracticaDIP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

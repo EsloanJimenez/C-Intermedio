@@ -1,0 +1,15 @@
+D:\Cursos\C#\C-Intermedio\PracticaDIP\PracticaDIP\bin\Debug\net8.0\PracticaDIP.exe
+D:\Cursos\C#\C-Intermedio\PracticaDIP\PracticaDIP\bin\Debug\net8.0\PracticaDIP.deps.json
+D:\Cursos\C#\C-Intermedio\PracticaDIP\PracticaDIP\bin\Debug\net8.0\PracticaDIP.runtimeconfig.json
+D:\Cursos\C#\C-Intermedio\PracticaDIP\PracticaDIP\bin\Debug\net8.0\PracticaDIP.dll
+D:\Cursos\C#\C-Intermedio\PracticaDIP\PracticaDIP\bin\Debug\net8.0\PracticaDIP.pdb
+D:\Cursos\C#\C-Intermedio\PracticaDIP\PracticaDIP\obj\Debug\net8.0\PracticaDIP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C#\C-Intermedio\PracticaDIP\PracticaDIP\obj\Debug\net8.0\PracticaDIP.AssemblyInfoInputs.cache
+D:\Cursos\C#\C-Intermedio\PracticaDIP\PracticaDIP\obj\Debug\net8.0\PracticaDIP.AssemblyInfo.cs
+D:\Cursos\C#\C-Intermedio\PracticaDIP\PracticaDIP\obj\Debug\net8.0\PracticaDIP.csproj.CoreCompileInputs.cache
+D:\Cursos\C#\C-Intermedio\PracticaDIP\PracticaDIP\obj\Debug\net8.0\PracticaDIP.sourcelink.json
+D:\Cursos\C#\C-Intermedio\PracticaDIP\PracticaDIP\obj\Debug\net8.0\PracticaDIP.dll
+D:\Cursos\C#\C-Intermedio\PracticaDIP\PracticaDIP\obj\Debug\net8.0\refint\PracticaDIP.dll
+D:\Cursos\C#\C-Intermedio\PracticaDIP\PracticaDIP\obj\Debug\net8.0\PracticaDIP.pdb
+D:\Cursos\C#\C-Intermedio\PracticaDIP\PracticaDIP\obj\Debug\net8.0\PracticaDIP.genruntimeconfig.cache
+D:\Cursos\C#\C-Intermedio\PracticaDIP\PracticaDIP\obj\Debug\net8.0\ref\PracticaDIP.dll
