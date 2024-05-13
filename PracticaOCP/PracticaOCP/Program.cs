@@ -1,15 +1,14 @@
-﻿
-using PracticaOCP;
+﻿using PracticaOCP;
 
 TaxCalculator calculando = new TaxCalculator();
 
 Console.Write("Cual fue su ingreso en este mes: ");
-double income = double.Parse(Console.ReadLine());
+decimal income = decimal.Parse(Console.ReadLine());
 
 Console.Write("Cual fue su deduccion en este mes: ");
-double deduction = double.Parse(Console.ReadLine());
+decimal deduction = decimal.Parse(Console.ReadLine());
 
 Console.Write("De que pais eres: ");
-string pais = Console.ReadLine();
+string pais = Console.ReadLine().ToUpper();
 
-Console.WriteLine(calculando.Calculate(income, deduction, pais));
+Console.WriteLine($"Su total ingreso de este mes, con las deducciones y pago de impuestos es: {income - calculando.Calculate(income, deduction, pais)}");

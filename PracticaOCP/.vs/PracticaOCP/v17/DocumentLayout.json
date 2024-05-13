@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Cursos\\C#\\C-Intermedio\\PracticaOCP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F5D4157-E0BF-4CE8-9917-D38054D1EEF2}|PracticaOCP\\PracticaOCP.csproj|d:\\cursos\\c#\\c-intermedio\\practicaocp\\practicaocp\\taxcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F5D4157-E0BF-4CE8-9917-D38054D1EEF2}|PracticaOCP\\PracticaOCP.csproj|solutionrelative:practicaocp\\taxcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9F5D4157-E0BF-4CE8-9917-D38054D1EEF2}|PracticaOCP\\PracticaOCP.csproj|d:\\cursos\\c#\\c-intermedio\\practicaocp\\practicaocp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F5D4157-E0BF-4CE8-9917-D38054D1EEF2}|PracticaOCP\\PracticaOCP.csproj|solutionrelative:practicaocp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5D4157-E0BF-4CE8-9917-D38054D1EEF2}|PracticaOCP\\PracticaOCP.csproj|d:\\cursos\\c#\\c-intermedio\\practicaocp\\practicaocp\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F5D4157-E0BF-4CE8-9917-D38054D1EEF2}|PracticaOCP\\PracticaOCP.csproj|solutionrelative:practicaocp\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,18 +17,18 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 263,
+          "DockedHeight": 318,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Cursos\\C#\\C-Intermedio\\PracticaOCP\\PracticaOCP\\Program.cs",
               "RelativeDocumentMoniker": "PracticaOCP\\Program.cs",
               "ToolTip": "D:\\Cursos\\C#\\C-Intermedio\\PracticaOCP\\PracticaOCP\\Program.cs",
               "RelativeToolTip": "PracticaOCP\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAACVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-07T00:18:33.095Z",
               "EditorCaption": ""
@@ -36,20 +36,20 @@
           ]
         },
         {
-          "DockedHeight": 799,
+          "DockedHeight": 220,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TaxCalculator.cs",
-              "DocumentMoniker": "D:\\Cursos\\C#\\C-Intermedio\\PracticaOCP\\PracticaOCP\\TaxCalculator.cs",
-              "RelativeDocumentMoniker": "PracticaOCP\\TaxCalculator.cs",
-              "ToolTip": "D:\\Cursos\\C#\\C-Intermedio\\PracticaOCP\\PracticaOCP\\TaxCalculator.cs",
-              "RelativeToolTip": "PracticaOCP\\TaxCalculator.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAkwDwAAAAhAAAA",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "D:\\Cursos\\C#\\C-Intermedio\\PracticaOCP\\PracticaOCP\\Calculadora.cs",
+              "RelativeDocumentMoniker": "PracticaOCP\\Calculadora.cs",
+              "ToolTip": "D:\\Cursos\\C#\\C-Intermedio\\PracticaOCP\\PracticaOCP\\Calculadora.cs",
+              "RelativeToolTip": "PracticaOCP\\Calculadora.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T01:44:44.451Z",
+              "WhenOpened": "2024-05-13T14:05:15.691Z",
               "EditorCaption": ""
             }
           ]
