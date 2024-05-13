@@ -1,0 +1,15 @@
+D:\Cursos\C#\C-Intermedio\PracticaLSP\PracticaLSP\bin\Debug\net8.0\PracticaLSP.exe
+D:\Cursos\C#\C-Intermedio\PracticaLSP\PracticaLSP\bin\Debug\net8.0\PracticaLSP.deps.json
+D:\Cursos\C#\C-Intermedio\PracticaLSP\PracticaLSP\bin\Debug\net8.0\PracticaLSP.runtimeconfig.json
+D:\Cursos\C#\C-Intermedio\PracticaLSP\PracticaLSP\bin\Debug\net8.0\PracticaLSP.dll
+D:\Cursos\C#\C-Intermedio\PracticaLSP\PracticaLSP\bin\Debug\net8.0\PracticaLSP.pdb
+D:\Cursos\C#\C-Intermedio\PracticaLSP\PracticaLSP\obj\Debug\net8.0\PracticaLSP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C#\C-Intermedio\PracticaLSP\PracticaLSP\obj\Debug\net8.0\PracticaLSP.AssemblyInfoInputs.cache
+D:\Cursos\C#\C-Intermedio\PracticaLSP\PracticaLSP\obj\Debug\net8.0\PracticaLSP.AssemblyInfo.cs
+D:\Cursos\C#\C-Intermedio\PracticaLSP\PracticaLSP\obj\Debug\net8.0\PracticaLSP.csproj.CoreCompileInputs.cache
+D:\Cursos\C#\C-Intermedio\PracticaLSP\PracticaLSP\obj\Debug\net8.0\PracticaLSP.sourcelink.json
+D:\Cursos\C#\C-Intermedio\PracticaLSP\PracticaLSP\obj\Debug\net8.0\PracticaLSP.dll
+D:\Cursos\C#\C-Intermedio\PracticaLSP\PracticaLSP\obj\Debug\net8.0\refint\PracticaLSP.dll
+D:\Cursos\C#\C-Intermedio\PracticaLSP\PracticaLSP\obj\Debug\net8.0\PracticaLSP.pdb
+D:\Cursos\C#\C-Intermedio\PracticaLSP\PracticaLSP\obj\Debug\net8.0\PracticaLSP.genruntimeconfig.cache
+D:\Cursos\C#\C-Intermedio\PracticaLSP\PracticaLSP\obj\Debug\net8.0\ref\PracticaLSP.dll

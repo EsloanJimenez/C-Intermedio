@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PracticaLSP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12bd20be14c5360d7783ae0da99a14a25dccf2a8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccf900c1be583cfae285b6d7406773e5d004730e")]
 [assembly: System.Reflection.AssemblyProductAttribute("PracticaLSP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PracticaLSP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
