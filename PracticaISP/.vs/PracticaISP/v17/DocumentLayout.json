@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\Cursos\\C#\\C-Intermedio\\PracticaISP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ECB8E8C3-C0C4-435A-A701-A68D73BA71B5}|PracticaISP\\PracticaISP.csproj|d:\\cursos\\c#\\c-intermedio\\practicaisp\\practicaisp\\interfaces\\iave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECB8E8C3-C0C4-435A-A701-A68D73BA71B5}|PracticaISP\\PracticaISP.csproj|solutionrelative:practicaisp\\interfaces\\iave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB8E8C3-C0C4-435A-A701-A68D73BA71B5}|PracticaISP\\PracticaISP.csproj|d:\\cursos\\c#\\c-intermedio\\practicaisp\\practicaisp\\interfaces\\iavescazadoras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECB8E8C3-C0C4-435A-A701-A68D73BA71B5}|PracticaISP\\PracticaISP.csproj|solutionrelative:practicaisp\\interfaces\\iavescazadoras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB8E8C3-C0C4-435A-A701-A68D73BA71B5}|PracticaISP\\PracticaISP.csproj|d:\\cursos\\c#\\c-intermedio\\practicaisp\\practicaisp\\interfaces\\iavesnadadoras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECB8E8C3-C0C4-435A-A701-A68D73BA71B5}|PracticaISP\\PracticaISP.csproj|solutionrelative:practicaisp\\interfaces\\iavesnadadoras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ECB8E8C3-C0C4-435A-A701-A68D73BA71B5}|PracticaISP\\PracticaISP.csproj|d:\\cursos\\c#\\c-intermedio\\practicaisp\\practicaisp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECB8E8C3-C0C4-435A-A701-A68D73BA71B5}|PracticaISP\\PracticaISP.csproj|solutionrelative:practicaisp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IAve.cs",
+              "DocumentMoniker": "D:\\Cursos\\C#\\C-Intermedio\\PracticaISP\\PracticaISP\\Interfaces\\IAve.cs",
+              "RelativeDocumentMoniker": "PracticaISP\\Interfaces\\IAve.cs",
+              "ToolTip": "D:\\Cursos\\C#\\C-Intermedio\\PracticaISP\\PracticaISP\\Interfaces\\IAve.cs",
+              "RelativeToolTip": "PracticaISP\\Interfaces\\IAve.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T02:00:10.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Cursos\\C#\\C-Intermedio\\PracticaISP\\PracticaISP\\Program.cs",
               "RelativeDocumentMoniker": "PracticaISP\\Program.cs",
@@ -27,6 +52,44 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T01:56:38.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 1034,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAvesNadadoras.cs",
+              "DocumentMoniker": "D:\\Cursos\\C#\\C-Intermedio\\PracticaISP\\PracticaISP\\Interfaces\\IAvesNadadoras.cs",
+              "RelativeDocumentMoniker": "PracticaISP\\Interfaces\\IAvesNadadoras.cs",
+              "ToolTip": "D:\\Cursos\\C#\\C-Intermedio\\PracticaISP\\PracticaISP\\Interfaces\\IAvesNadadoras.cs",
+              "RelativeToolTip": "PracticaISP\\Interfaces\\IAvesNadadoras.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T02:02:24.948Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 742,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAvesCazadoras.cs",
+              "DocumentMoniker": "D:\\Cursos\\C#\\C-Intermedio\\PracticaISP\\PracticaISP\\Interfaces\\IAvesCazadoras.cs",
+              "RelativeDocumentMoniker": "PracticaISP\\Interfaces\\IAvesCazadoras.cs",
+              "ToolTip": "D:\\Cursos\\C#\\C-Intermedio\\PracticaISP\\PracticaISP\\Interfaces\\IAvesCazadoras.cs",
+              "RelativeToolTip": "PracticaISP\\Interfaces\\IAvesCazadoras.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T02:02:57.251Z",
               "EditorCaption": ""
             }
           ]

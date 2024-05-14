@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PracticaISP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5a4b12f153e069321c0fb7385898540678fca61")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e66942482a6b1af2bb424f089767557af00ce36")]
 [assembly: System.Reflection.AssemblyProductAttribute("PracticaISP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PracticaISP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
