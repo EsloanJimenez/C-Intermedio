@@ -1,0 +1,12 @@
+D:\Cursos\C#\C-Intermedio\CSIPJR\CSIPJR.Domain\obj\Debug\net8.0\CSIPJR.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C#\C-Intermedio\CSIPJR\CSIPJR.Domain\obj\Debug\net8.0\CSIPJR.Domain.AssemblyInfoInputs.cache
+D:\Cursos\C#\C-Intermedio\CSIPJR\CSIPJR.Domain\obj\Debug\net8.0\CSIPJR.Domain.AssemblyInfo.cs
+D:\Cursos\C#\C-Intermedio\CSIPJR\CSIPJR.Domain\obj\Debug\net8.0\CSIPJR.Domain.csproj.CoreCompileInputs.cache
+D:\Cursos\C#\C-Intermedio\CSIPJR\CSIPJR.Domain\obj\Debug\net8.0\CSIPJR.Domain.sourcelink.json
+D:\Cursos\C#\C-Intermedio\CSIPJR\CSIPJR.Domain\bin\Debug\net8.0\CSIPJR.Domain.deps.json
+D:\Cursos\C#\C-Intermedio\CSIPJR\CSIPJR.Domain\bin\Debug\net8.0\CSIPJR.Domain.dll
+D:\Cursos\C#\C-Intermedio\CSIPJR\CSIPJR.Domain\bin\Debug\net8.0\CSIPJR.Domain.pdb
+D:\Cursos\C#\C-Intermedio\CSIPJR\CSIPJR.Domain\obj\Debug\net8.0\CSIPJR.Domain.dll
+D:\Cursos\C#\C-Intermedio\CSIPJR\CSIPJR.Domain\obj\Debug\net8.0\refint\CSIPJR.Domain.dll
+D:\Cursos\C#\C-Intermedio\CSIPJR\CSIPJR.Domain\obj\Debug\net8.0\CSIPJR.Domain.pdb
+D:\Cursos\C#\C-Intermedio\CSIPJR\CSIPJR.Domain\obj\Debug\net8.0\ref\CSIPJR.Domain.dll
