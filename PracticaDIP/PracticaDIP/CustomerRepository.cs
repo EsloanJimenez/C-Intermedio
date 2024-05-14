@@ -15,9 +15,7 @@ namespace PracticaDIP
                 new Customers {customerId = 2, name = "Yhennifer", phoneNumber = "849-229-0108", email = "Yhennifer01@gmail.com" },
                 new Customers {customerId = 3, name = "Enyher", phoneNumber = "829-502-4684", email = "EnyherJimenez@gmail.com" },
             };
-        }
-
-        
+        }        
         public List<Customers> ViewInfo() => customers;
         
     }
