@@ -3,12 +3,15 @@ using Practica2.Interfaces;
 
 namespace Practica2
 {
-    public class EnviarCorreo : ICorreoElectronico
+    public class EnviarCorreo : Persona, ICorreoElectronico
     {
-        Persona persona1 = new Persona();
+        public EnviarCorreo(string nombre, int edad, string direccion, string correoElectronico) : base(nombre, edad, direccion, correoElectronico)
+        {
+
+        }
         public void EnviarCorreoElectronico(string mensaje)
         {
-            Console.WriteLine($"\n\n{persona1.nombre = "Enrique"} <{persona1.correoElectronico = "EsloanJimenez@gmail.com"}>");
+            Console.WriteLine($"\n\n{nombre} <{correoElectronico}>");
             Console.WriteLine($"{mensaje}");
         }
     }

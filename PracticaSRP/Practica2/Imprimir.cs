@@ -1,19 +1,22 @@
 ﻿using Practica2.Entities;
 using Practica2.Interfaces;
 using static System.Console;
-
+using static System.Runtime.InteropServices.JavaScript.JSType;
 namespace Practica2
 {
     public class Imprimir : Persona
     {
-        Persona persona1 = new Persona();
+        public Imprimir(string nombre, int edad, string direccion, string correoElectronico) :base(nombre, edad, direccion, correoElectronico)
+        { 
+        
+        }
 
         public void ImprimirDatos()
         {
-            WriteLine($"Nombre: \t\t{persona1.nombre = "Enrique"}");
-            WriteLine($"Edad: \t\t\t{persona1.edad = 30}");
-            WriteLine($"Dirección: \t\t{persona1.direccion = "Sagrario Diaz"}");
-            WriteLine($"Correo electrónico: \t{persona1.correoElectronico = "EsloanJimenez@gmail.com"}");
+            WriteLine($"Nombre: \t\t{nombre}");
+            WriteLine($"Edad: \t\t\t{edad}");
+            WriteLine($"Dirección: \t\t{direccion}");
+            WriteLine($"Correo electrónico: \t{correoElectronico}");
         }
     }
 }

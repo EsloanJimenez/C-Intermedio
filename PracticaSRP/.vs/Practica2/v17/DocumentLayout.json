@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{D2E4FB82-1CA9-4AC8-A78B-72FE6C507363}|Practica2\\Practica2.csproj|solutionrelative:practica2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D2E4FB82-1CA9-4AC8-A78B-72FE6C507363}|Practica2\\Practica2.csproj|d:\\cursos\\c#\\c-intermedio\\practicasrp\\practica2\\enviarcorreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E4FB82-1CA9-4AC8-A78B-72FE6C507363}|Practica2\\Practica2.csproj|solutionrelative:practica2\\enviarcorreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D2E4FB82-1CA9-4AC8-A78B-72FE6C507363}|Practica2\\Practica2.csproj|d:\\cursos\\c#\\c-intermedio\\practicasrp\\practica2\\imprimir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2E4FB82-1CA9-4AC8-A78B-72FE6C507363}|Practica2\\Practica2.csproj|solutionrelative:practica2\\imprimir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2E4FB82-1CA9-4AC8-A78B-72FE6C507363}|Practica2\\Practica2.csproj|d:\\cursos\\c#\\c-intermedio\\practicasrp\\practica2\\enviarcorreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2E4FB82-1CA9-4AC8-A78B-72FE6C507363}|Practica2\\Practica2.csproj|solutionrelative:practica2\\enviarcorreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D2E4FB82-1CA9-4AC8-A78B-72FE6C507363}|Practica2\\Practica2.csproj|d:\\cursos\\c#\\c-intermedio\\practicasrp\\practica2\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E4FB82-1CA9-4AC8-A78B-72FE6C507363}|Practica2\\Practica2.csproj|solutionrelative:practica2\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,7 +25,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 531,
+          "DockedHeight": 396,
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -32,7 +36,7 @@
               "RelativeDocumentMoniker": "Practica2\\Program.cs",
               "ToolTip": "D:\\Cursos\\C#\\C-Intermedio\\PracticaSRP\\Practica2\\Program.cs",
               "RelativeToolTip": "Practica2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-01T00:45:00.495Z",
               "EditorCaption": ""
@@ -40,18 +44,37 @@
           ]
         },
         {
-          "DockedHeight": 881,
+          "DockedHeight": 917,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "D:\\Cursos\\C#\\C-Intermedio\\PracticaSRP\\Practica2\\Entities\\Persona.cs",
+              "RelativeDocumentMoniker": "Practica2\\Entities\\Persona.cs",
+              "ToolTip": "D:\\Cursos\\C#\\C-Intermedio\\PracticaSRP\\Practica2\\Entities\\Persona.cs",
+              "RelativeToolTip": "Practica2\\Entities\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T15:34:41.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 694,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Imprimir.cs",
               "DocumentMoniker": "D:\\Cursos\\C#\\C-Intermedio\\PracticaSRP\\Practica2\\Imprimir.cs",
               "RelativeDocumentMoniker": "Practica2\\Imprimir.cs",
               "ToolTip": "D:\\Cursos\\C#\\C-Intermedio\\PracticaSRP\\Practica2\\Imprimir.cs",
               "RelativeToolTip": "Practica2\\Imprimir.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-06T23:48:45.899Z",
               "EditorCaption": ""
@@ -59,18 +82,18 @@
           ]
         },
         {
-          "DockedHeight": 913,
+          "DockedHeight": 700,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "EnviarCorreo.cs",
               "DocumentMoniker": "D:\\Cursos\\C#\\C-Intermedio\\PracticaSRP\\Practica2\\EnviarCorreo.cs",
               "RelativeDocumentMoniker": "Practica2\\EnviarCorreo.cs",
               "ToolTip": "D:\\Cursos\\C#\\C-Intermedio\\PracticaSRP\\Practica2\\EnviarCorreo.cs",
               "RelativeToolTip": "Practica2\\EnviarCorreo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T13:38:37.565Z",
               "EditorCaption": ""
