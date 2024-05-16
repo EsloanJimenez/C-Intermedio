@@ -1,7 +1,5 @@
 ﻿using Practica2.Entities;
-using Practica2.Interfaces;
 using static System.Console;
-using static System.Runtime.InteropServices.JavaScript.JSType;
 namespace Practica2
 {
     public class Imprimir : Persona
