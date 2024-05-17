@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSIPJR.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16e9b01cc44c9f273a9b78bfb2ea9e491a5074b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b08afc856dcb60f40989e8bd3de5b153dd5e98d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSIPJR.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSIPJR.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

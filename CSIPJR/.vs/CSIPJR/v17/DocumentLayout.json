@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "D:\\Cursos\\C#\\C-Intermedio\\CSIPJR\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C55A12B-2B13-4C05-B8E0-A879C821AEEF}|CSIPJR.Domain\\CSIPJR.Domain.csproj|d:\\cursos\\c#\\c-intermedio\\csipjr\\csipjr.domain\\class\\courseclass\\onsitecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C55A12B-2B13-4C05-B8E0-A879C821AEEF}|CSIPJR.Domain\\CSIPJR.Domain.csproj|solutionrelative:csipjr.domain\\class\\courseclass\\onsitecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C55A12B-2B13-4C05-B8E0-A879C821AEEF}|CSIPJR.Domain\\CSIPJR.Domain.csproj|d:\\cursos\\c#\\c-intermedio\\csipjr\\csipjr.domain\\class\\courseclass\\onlinecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C55A12B-2B13-4C05-B8E0-A879C821AEEF}|CSIPJR.Domain\\CSIPJR.Domain.csproj|solutionrelative:csipjr.domain\\class\\courseclass\\onlinecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C55A12B-2B13-4C05-B8E0-A879C821AEEF}|CSIPJR.Domain\\CSIPJR.Domain.csproj|d:\\cursos\\c#\\c-intermedio\\csipjr\\csipjr.domain\\core\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C55A12B-2B13-4C05-B8E0-A879C821AEEF}|CSIPJR.Domain\\CSIPJR.Domain.csproj|solutionrelative:csipjr.domain\\core\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C55A12B-2B13-4C05-B8E0-A879C821AEEF}|CSIPJR.Domain\\CSIPJR.Domain.csproj|d:\\cursos\\c#\\c-intermedio\\csipjr\\csipjr.domain\\core\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C55A12B-2B13-4C05-B8E0-A879C821AEEF}|CSIPJR.Domain\\CSIPJR.Domain.csproj|solutionrelative:csipjr.domain\\core\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C55A12B-2B13-4C05-B8E0-A879C821AEEF}|CSIPJR.Domain\\CSIPJR.Domain.csproj|d:\\cursos\\c#\\c-intermedio\\csipjr\\csipjr.domain\\interface\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C55A12B-2B13-4C05-B8E0-A879C821AEEF}|CSIPJR.Domain\\CSIPJR.Domain.csproj|solutionrelative:csipjr.domain\\interface\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C55A12B-2B13-4C05-B8E0-A879C821AEEF}|CSIPJR.Domain\\CSIPJR.Domain.csproj|d:\\cursos\\c#\\c-intermedio\\csipjr\\csipjr.domain\\class\\calcularsalario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C55A12B-2B13-4C05-B8E0-A879C821AEEF}|CSIPJR.Domain\\CSIPJR.Domain.csproj|solutionrelative:csipjr.domain\\class\\calcularsalario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C55A12B-2B13-4C05-B8E0-A879C821AEEF}|CSIPJR.Domain\\CSIPJR.Domain.csproj|d:\\cursos\\c#\\c-intermedio\\csipjr\\csipjr.domain\\class\\courseclass\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3C55A12B-2B13-4C05-B8E0-A879C821AEEF}|CSIPJR.Domain\\CSIPJR.Domain.csproj|d:\\cursos\\c#\\c-intermedio\\csipjr\\csipjr.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C55A12B-2B13-4C05-B8E0-A879C821AEEF}|CSIPJR.Domain\\CSIPJR.Domain.csproj|solutionrelative:csipjr.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C55A12B-2B13-4C05-B8E0-A879C821AEEF}|CSIPJR.Domain\\CSIPJR.Domain.csproj|d:\\cursos\\c#\\c-intermedio\\csipjr\\csipjr.domain\\class\\studentsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C55A12B-2B13-4C05-B8E0-A879C821AEEF}|CSIPJR.Domain\\CSIPJR.Domain.csproj|solutionrelative:csipjr.domain\\class\\studentsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,11 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 753,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "CalcularSalario.cs",
+              "DocumentMoniker": "D:\\Cursos\\C#\\C-Intermedio\\CSIPJR\\CSIPJR.Domain\\Class\\CalcularSalario.cs",
+              "RelativeDocumentMoniker": "CSIPJR.Domain\\Class\\CalcularSalario.cs",
+              "ToolTip": "D:\\Cursos\\C#\\C-Intermedio\\CSIPJR\\CSIPJR.Domain\\Class\\CalcularSalario.cs",
+              "RelativeToolTip": "CSIPJR.Domain\\Class\\CalcularSalario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:16:14.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ISubscribtion.cs",
               "DocumentMoniker": "D:\\Cursos\\C#\\C-Intermedio\\CSIPJR\\CSIPJR.Domain\\Interface\\ISubscribtion.cs",
               "RelativeDocumentMoniker": "CSIPJR.Domain\\Interface\\ISubscribtion.cs",
@@ -66,12 +59,11 @@
               "RelativeToolTip": "CSIPJR.Domain\\Interface\\ISubscribtion.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T19:26:50.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T19:26:50.76Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Course.cs",
               "DocumentMoniker": "D:\\Cursos\\C#\\C-Intermedio\\CSIPJR\\CSIPJR.Domain\\Class\\CourseClass\\Course.cs",
               "RelativeDocumentMoniker": "CSIPJR.Domain\\Class\\CourseClass\\Course.cs",
@@ -79,12 +71,11 @@
               "RelativeToolTip": "CSIPJR.Domain\\Class\\CourseClass\\Course.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T19:19:58.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T19:19:58.622Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "Persona.cs",
               "DocumentMoniker": "D:\\Cursos\\C#\\C-Intermedio\\CSIPJR\\CSIPJR.Domain\\Class\\Persona.cs",
               "RelativeDocumentMoniker": "CSIPJR.Domain\\Class\\Persona.cs",
@@ -96,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\Cursos\\C#\\C-Intermedio\\CSIPJR\\CSIPJR.Domain\\Class1.cs",
               "RelativeDocumentMoniker": "CSIPJR.Domain\\Class1.cs",
@@ -108,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Cursos\\C#\\C-Intermedio\\CSIPJR\\CSIPJR.Console\\Program.cs",
               "RelativeDocumentMoniker": "CSIPJR.Console\\Program.cs",
@@ -116,98 +107,7 @@
               "RelativeToolTip": "CSIPJR.Console\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T02:45:49.064Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 1212,
-          "SelectedChildIndex": 3,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Email.cs",
-              "DocumentMoniker": "D:\\Cursos\\C#\\C-Intermedio\\CSIPJR\\CSIPJR.Domain\\Core\\Email.cs",
-              "RelativeDocumentMoniker": "CSIPJR.Domain\\Core\\Email.cs",
-              "ToolTip": "D:\\Cursos\\C#\\C-Intermedio\\CSIPJR\\CSIPJR.Domain\\Core\\Email.cs",
-              "RelativeToolTip": "CSIPJR.Domain\\Core\\Email.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T19:49:27.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IEmailSender.cs",
-              "DocumentMoniker": "D:\\Cursos\\C#\\C-Intermedio\\CSIPJR\\CSIPJR.Domain\\Interface\\IEmailSender.cs",
-              "RelativeDocumentMoniker": "CSIPJR.Domain\\Interface\\IEmailSender.cs",
-              "ToolTip": "D:\\Cursos\\C#\\C-Intermedio\\CSIPJR\\CSIPJR.Domain\\Interface\\IEmailSender.cs",
-              "RelativeToolTip": "CSIPJR.Domain\\Interface\\IEmailSender.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T19:48:52.657Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmailSender.cs",
-              "DocumentMoniker": "D:\\Cursos\\C#\\C-Intermedio\\CSIPJR\\CSIPJR.Domain\\Core\\EmailSender.cs",
-              "RelativeDocumentMoniker": "CSIPJR.Domain\\Core\\EmailSender.cs",
-              "ToolTip": "D:\\Cursos\\C#\\C-Intermedio\\CSIPJR\\CSIPJR.Domain\\Core\\EmailSender.cs",
-              "RelativeToolTip": "CSIPJR.Domain\\Core\\EmailSender.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T19:48:25.546Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OnsiteCourse.cs",
-              "DocumentMoniker": "D:\\Cursos\\C#\\C-Intermedio\\CSIPJR\\CSIPJR.Domain\\Class\\CourseClass\\OnsiteCourse.cs",
-              "RelativeDocumentMoniker": "CSIPJR.Domain\\Class\\CourseClass\\OnsiteCourse.cs",
-              "ToolTip": "D:\\Cursos\\C#\\C-Intermedio\\CSIPJR\\CSIPJR.Domain\\Class\\CourseClass\\OnsiteCourse.cs",
-              "RelativeToolTip": "CSIPJR.Domain\\Class\\CourseClass\\OnsiteCourse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T19:32:54.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "StudentSearch.cs",
-              "DocumentMoniker": "D:\\Cursos\\C#\\C-Intermedio\\CSIPJR\\CSIPJR.Domain\\Class\\StudentSearch.cs",
-              "RelativeDocumentMoniker": "CSIPJR.Domain\\Class\\StudentSearch.cs",
-              "ToolTip": "D:\\Cursos\\C#\\C-Intermedio\\CSIPJR\\CSIPJR.Domain\\Class\\StudentSearch.cs",
-              "RelativeToolTip": "CSIPJR.Domain\\Class\\StudentSearch.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T02:16:03.469Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 726,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OnlineCourse.cs",
-              "DocumentMoniker": "D:\\Cursos\\C#\\C-Intermedio\\CSIPJR\\CSIPJR.Domain\\Class\\CourseClass\\OnlineCourse.cs",
-              "RelativeDocumentMoniker": "CSIPJR.Domain\\Class\\CourseClass\\OnlineCourse.cs",
-              "ToolTip": "D:\\Cursos\\C#\\C-Intermedio\\CSIPJR\\CSIPJR.Domain\\Class\\CourseClass\\OnlineCourse.cs",
-              "RelativeToolTip": "CSIPJR.Domain\\Class\\CourseClass\\OnlineCourse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T19:32:45.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T02:45:49.064Z"
             }
           ]
         }
