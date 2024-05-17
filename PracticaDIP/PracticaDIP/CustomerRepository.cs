@@ -1,22 +1,23 @@
 ﻿using PracticaDIP.Entities;
+using PracticaDIP.Interface;
 
 namespace PracticaDIP
 {
-    public class CustomerRepository
+    public class CustomerRepository : ICustomerRepository
     {
 
-        private List<Customers> customers;
+        private readonly List<Customers> customers;
 
         public CustomerRepository()
         {
             customers = new List<Customers>
             {
-                new Customers {customerId = 1, name = "Enrique", phoneNumber = "849-451-6666", email = "EsloanJimenez@gmail.com" },
-                new Customers {customerId = 2, name = "Yhennifer", phoneNumber = "849-229-0108", email = "Yhennifer01@gmail.com" },
-                new Customers {customerId = 3, name = "Enyher", phoneNumber = "829-502-4684", email = "EnyherJimenez@gmail.com" },
+                    new Customers {CustomerId = 1, Name = "Enrique", PhoneNumber = "849-451-6666", Email = "EsloanJimenez@gmail.com" },
+                    new Customers {CustomerId = 2, Name = "Yhennifer", PhoneNumber = "849-229-0108", Email = "Yhennifer01@gmail.com" },
+                    new Customers {CustomerId = 3, Name = "Enyher", PhoneNumber = "829-502-4684", Email = "EnyherJimenez@gmail.com" }
             };
         }        
-        public List<Customers> ViewInfo() => customers;
         
+        public List<Customers> GetCustomers() => customers;
     }
 }

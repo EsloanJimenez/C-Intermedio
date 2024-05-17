@@ -7,12 +7,20 @@
       "RelativeMoniker": "D:0:0:{B9D0D6D8-D60C-4250-BB1B-C5C6D9F8E1C3}|PracticaDIP\\PracticaDIP.csproj|solutionrelative:practicadip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B9D0D6D8-D60C-4250-BB1B-C5C6D9F8E1C3}|PracticaDIP\\PracticaDIP.csproj|d:\\cursos\\c#\\c-intermedio\\practicadip\\practicadip\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D0D6D8-D60C-4250-BB1B-C5C6D9F8E1C3}|PracticaDIP\\PracticaDIP.csproj|solutionrelative:practicadip\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B9D0D6D8-D60C-4250-BB1B-C5C6D9F8E1C3}|PracticaDIP\\PracticaDIP.csproj|d:\\cursos\\c#\\c-intermedio\\practicadip\\practicadip\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9D0D6D8-D60C-4250-BB1B-C5C6D9F8E1C3}|PracticaDIP\\PracticaDIP.csproj|solutionrelative:practicadip\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9D0D6D8-D60C-4250-BB1B-C5C6D9F8E1C3}|PracticaDIP\\PracticaDIP.csproj|d:\\cursos\\c#\\c-intermedio\\practicadip\\practicadip\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9D0D6D8-D60C-4250-BB1B-C5C6D9F8E1C3}|PracticaDIP\\PracticaDIP.csproj|solutionrelative:practicadip\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9D0D6D8-D60C-4250-BB1B-C5C6D9F8E1C3}|PracticaDIP\\PracticaDIP.csproj|d:\\cursos\\c#\\c-intermedio\\practicadip\\practicadip\\interface\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D0D6D8-D60C-4250-BB1B-C5C6D9F8E1C3}|PracticaDIP\\PracticaDIP.csproj|solutionrelative:practicadip\\interface\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D0D6D8-D60C-4250-BB1B-C5C6D9F8E1C3}|PracticaDIP\\PracticaDIP.csproj|d:\\cursos\\c#\\c-intermedio\\practicadip\\practicadip\\entities\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D0D6D8-D60C-4250-BB1B-C5C6D9F8E1C3}|PracticaDIP\\PracticaDIP.csproj|solutionrelative:practicadip\\entities\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,7 +40,7 @@
               "RelativeDocumentMoniker": "PracticaDIP\\Program.cs",
               "ToolTip": "D:\\Cursos\\C#\\C-Intermedio\\PracticaDIP\\PracticaDIP\\Program.cs",
               "RelativeToolTip": "PracticaDIP\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T17:19:36.338Z",
               "EditorCaption": ""
@@ -45,13 +53,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CustomerRepository.cs",
               "DocumentMoniker": "D:\\Cursos\\C#\\C-Intermedio\\PracticaDIP\\PracticaDIP\\CustomerRepository.cs",
               "RelativeDocumentMoniker": "PracticaDIP\\CustomerRepository.cs",
               "ToolTip": "D:\\Cursos\\C#\\C-Intermedio\\PracticaDIP\\PracticaDIP\\CustomerRepository.cs",
               "RelativeToolTip": "PracticaDIP\\CustomerRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T17:25:26.946Z",
               "EditorCaption": ""
@@ -64,15 +72,83 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "CustomerService.cs",
               "DocumentMoniker": "D:\\Cursos\\C#\\C-Intermedio\\PracticaDIP\\PracticaDIP\\CustomerService.cs",
               "RelativeDocumentMoniker": "PracticaDIP\\CustomerService.cs",
               "ToolTip": "D:\\Cursos\\C#\\C-Intermedio\\PracticaDIP\\PracticaDIP\\CustomerService.cs",
               "RelativeToolTip": "PracticaDIP\\CustomerService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABCAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T17:25:04.21Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "4322c30a-d403-4cd1-92a6-60ec5853f149",
+        "Display": 1,
+        "X": 1978,
+        "Y": 118,
+        "Width": 724,
+        "Height": 499,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "D:\\Cursos\\C#\\C-Intermedio\\PracticaDIP\\PracticaDIP\\Entities\\Customers.cs",
+              "RelativeDocumentMoniker": "PracticaDIP\\Entities\\Customers.cs",
+              "ToolTip": "D:\\Cursos\\C#\\C-Intermedio\\PracticaDIP\\PracticaDIP\\Entities\\Customers.cs",
+              "RelativeToolTip": "PracticaDIP\\Entities\\Customers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:51:04.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "2f4ecbda-70bd-4117-a103-80bd8ede7131",
+        "Display": 1,
+        "X": 1975,
+        "Y": 619,
+        "Width": 744,
+        "Height": 322,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "D:\\Cursos\\C#\\C-Intermedio\\PracticaDIP\\PracticaDIP\\Interface\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "PracticaDIP\\Interface\\ICustomerRepository.cs",
+              "ToolTip": "D:\\Cursos\\C#\\C-Intermedio\\PracticaDIP\\PracticaDIP\\Interface\\ICustomerRepository.cs",
+              "RelativeToolTip": "PracticaDIP\\Interface\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:48:55.424Z",
               "EditorCaption": ""
             }
           ]

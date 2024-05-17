@@ -1,16 +1,17 @@
 ﻿using PracticaDIP.Entities;
+using PracticaDIP.Interface;
 
 namespace PracticaDIP
 {
     public class CustomerService
     {
-        private CustomerRepository repository;
+        private readonly ICustomerRepository _customerRepository;
 
-        public CustomerService()
+        public CustomerService(ICustomerRepository customerRepository)
         {
-            repository = new CustomerRepository();
+            _customerRepository = customerRepository;
         }
 
-        public List<Customers> verTodo() => repository.ViewInfo();
+        public List<Customers> GetCustomers() => _customerRepository.GetCustomers();
     }
 }

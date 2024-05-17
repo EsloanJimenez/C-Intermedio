@@ -1,16 +1,17 @@
 ﻿using PracticaDIP;
 
-CustomerService customerService = new CustomerService();
+CustomerRepository customerRepository = new CustomerRepository();
+CustomerService customerService = new CustomerService(customerRepository);
 
 Console.WriteLine("LISTA DE LOS CLIENTES");
 
-foreach(var lista in customerService.verTodo())
+foreach(var lista in customerService.GetCustomers())
 {
     Console.WriteLine($"""
-                ID:                     {lista.customerId}
-                NOMBRE:                 {lista.name}
-                NUMERO CELULAR:         {lista.phoneNumber}
-                CORREO ELECTRONICO:     {lista.email}
+                ID:                     {lista.CustomerId}
+                NOMBRE:                 {lista.Name}
+                NUMERO CELULAR:         {lista.PhoneNumber}
+                CORREO ELECTRONICO:     {lista.Email}
                 """);
     Console.WriteLine("\n");
 }
