@@ -2,8 +2,7 @@
 
 namespace JustGrill.Domain.Interfaces
 {
-    public interface IPedido : IBaseRepository<Pedido>
+    internal interface IGuarniciones : IBaseRepository<Guarniciones>
     {
-
     }
 }

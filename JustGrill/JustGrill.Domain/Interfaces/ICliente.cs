@@ -2,13 +2,8 @@
 
 namespace JustGrill.Domain.Interfaces
 {
-    public interface ICliente
+    public interface ICliente : IBaseRepository<Cliente>
     {
-        Task Save(Cliente cliente);
-        Task Save(List<Cliente> clienteList);
-        Task Update(Cliente cliente);
-        Task Update(List<Cliente> clienteList);
-        Task Get(int idCliente);
-        Task<List<Cliente>> GetAll();
+
     }
 }

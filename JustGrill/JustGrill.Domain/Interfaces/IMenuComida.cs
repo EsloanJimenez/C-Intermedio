@@ -2,7 +2,7 @@
 
 namespace JustGrill.Domain.Interfaces
 {
-    public interface IPedido : IBaseRepository<Pedido>
+    public interface IMenuComida : IBaseRepository<MenuComida>
     {
 
     }

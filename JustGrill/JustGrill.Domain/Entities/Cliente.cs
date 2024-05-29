@@ -1,11 +1,16 @@
 ﻿using JustGrill.Domain.Core;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace JustGrill.Domain.Entities
 {
-    public class Cliente : EntidadConNombre
+    [Table("", Schema ="")]
+    public sealed class Cliente : Persona
     {
-        public int IdCliente { get; set; }
+        public int ClienteID { get; set; }
         public string? Telefono { get; set; }
         public string? Email { get; set; }
     }
 }
+
+

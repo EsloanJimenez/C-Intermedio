@@ -2,8 +2,8 @@
 
 namespace JustGrill.Domain.Entities
 {
-    public class DetallePedido : Detalles
+    public class MenuBebida : Menu
     {
-        public int PedidoID { get; set; }
+
     }
 }

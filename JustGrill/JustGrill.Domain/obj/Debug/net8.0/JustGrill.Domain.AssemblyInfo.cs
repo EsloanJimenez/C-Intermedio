@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JustGrill.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c55d9e56fc5a584b90bc5b8f6fe74149949b5bf1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1eb6bc5b3a21a094e2737e371ad57922064b524")]
 [assembly: System.Reflection.AssemblyProductAttribute("JustGrill.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JustGrill.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

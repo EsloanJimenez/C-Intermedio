@@ -2,13 +2,8 @@
 
 namespace JustGrill.Domain.Interfaces
 {
-    public interface IMesa
+    public interface IMesa : IBaseRepository<Mesa>
     {
-        Task Save(Mesa mesa);
-        Task Save(List<Mesa> mesaList);
-        Task Update(Mesa mesa);
-        Task Update(List<Mesa> mesaList);
-        Task Get(int idMesa);
-        Task<List<Mesa>> GetAll();
+
     }
 }
