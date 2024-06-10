@@ -2,6 +2,10 @@
 {
     public class Persona : EntidadConNombre
     {
+        protected Persona() { 
+            this.CreationDate = DateTime.Now;
+            this.Deleted = false;
+        }
         public DateTime StartDate { get; set; }
         public DateTime CreationDate { get; set; }
         public DateTime ModifyDate { get; set; }

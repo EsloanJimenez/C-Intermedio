@@ -5,7 +5,13 @@ VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JustGrill.Domain", "JustGrill.Domain.csproj", "{6787CEF9-EAB0-42B2-ACA8-4D43EBC123C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustGrill.Infraestructure", "..\JustGrill.Infraestructure\JustGrill.Infraestructure.csproj", "{FBC3809E-8685-4615-8C54-58181224E964}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JustGrill.Infraestructure", "..\JustGrill.Infraestructure\JustGrill.Infraestructure.csproj", "{FBC3809E-8685-4615-8C54-58181224E964}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JustGrill.API", "..\JustGrill.API\JustGrill.API.csproj", "{62A73D1C-577F-4219-8606-3509D47FDCCA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JustGrill.IOC", "..\JustGrill.IOC\JustGrill.IOC.csproj", "{57FEEC6D-7F91-419D-AD32-D6794B3F0FEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustGrill.Infraestructure.Unit.Text", "..\JustGrill.Infraestructure.Text\JustGrill.Infraestructure.Unit.Text.csproj", "{565FB34A-F356-4974-BCA2-88BF0E2C08D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{FBC3809E-8685-4615-8C54-58181224E964}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBC3809E-8685-4615-8C54-58181224E964}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBC3809E-8685-4615-8C54-58181224E964}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62A73D1C-577F-4219-8606-3509D47FDCCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62A73D1C-577F-4219-8606-3509D47FDCCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62A73D1C-577F-4219-8606-3509D47FDCCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62A73D1C-577F-4219-8606-3509D47FDCCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57FEEC6D-7F91-419D-AD32-D6794B3F0FEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57FEEC6D-7F91-419D-AD32-D6794B3F0FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57FEEC6D-7F91-419D-AD32-D6794B3F0FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57FEEC6D-7F91-419D-AD32-D6794B3F0FEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{565FB34A-F356-4974-BCA2-88BF0E2C08D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{565FB34A-F356-4974-BCA2-88BF0E2C08D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{565FB34A-F356-4974-BCA2-88BF0E2C08D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{565FB34A-F356-4974-BCA2-88BF0E2C08D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

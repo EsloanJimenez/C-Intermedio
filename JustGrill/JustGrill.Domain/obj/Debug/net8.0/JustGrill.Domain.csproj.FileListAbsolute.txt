@@ -1,0 +1,12 @@
+D:\Cursos\C#\C-Intermedio\JustGrill\JustGrill.Domain\bin\Debug\net8.0\JustGrill.Domain.deps.json
+D:\Cursos\C#\C-Intermedio\JustGrill\JustGrill.Domain\bin\Debug\net8.0\JustGrill.Domain.dll
+D:\Cursos\C#\C-Intermedio\JustGrill\JustGrill.Domain\bin\Debug\net8.0\JustGrill.Domain.pdb
+D:\Cursos\C#\C-Intermedio\JustGrill\JustGrill.Domain\obj\Debug\net8.0\JustGrill.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C#\C-Intermedio\JustGrill\JustGrill.Domain\obj\Debug\net8.0\JustGrill.Domain.AssemblyInfoInputs.cache
+D:\Cursos\C#\C-Intermedio\JustGrill\JustGrill.Domain\obj\Debug\net8.0\JustGrill.Domain.AssemblyInfo.cs
+D:\Cursos\C#\C-Intermedio\JustGrill\JustGrill.Domain\obj\Debug\net8.0\JustGrill.Domain.csproj.CoreCompileInputs.cache
+D:\Cursos\C#\C-Intermedio\JustGrill\JustGrill.Domain\obj\Debug\net8.0\JustGrill.Domain.sourcelink.json
+D:\Cursos\C#\C-Intermedio\JustGrill\JustGrill.Domain\obj\Debug\net8.0\JustGrill.Domain.dll
+D:\Cursos\C#\C-Intermedio\JustGrill\JustGrill.Domain\obj\Debug\net8.0\refint\JustGrill.Domain.dll
+D:\Cursos\C#\C-Intermedio\JustGrill\JustGrill.Domain\obj\Debug\net8.0\JustGrill.Domain.pdb
+D:\Cursos\C#\C-Intermedio\JustGrill\JustGrill.Domain\obj\Debug\net8.0\ref\JustGrill.Domain.dll

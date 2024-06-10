@@ -3,17 +3,16 @@
   "WorkspaceRootPath": "D:\\Cursos\\C#\\C-Intermedio\\JustGrill\\JustGrill.Domain\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6787CEF9-EAB0-42B2-ACA8-4D43EBC123C1}|JustGrill.Domain.csproj|d:\\cursos\\c#\\c-intermedio\\justgrill\\justgrill.domain\\entities\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6787CEF9-EAB0-42B2-ACA8-4D43EBC123C1}|JustGrill.Domain.csproj|solutionrelative:entities\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{565FB34A-F356-4974-BCA2-88BF0E2C08D9}|..\\JustGrill.Infraestructure.Text\\JustGrill.Infraestructure.Unit.Text.csproj|d:\\cursos\\c#\\c-intermedio\\justgrill\\justgrill.infraestructure.text\\empleadorepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBC3809E-8685-4615-8C54-58181224E964}|..\\JustGrill.Infraestructure\\JustGrill.Infraestructure.csproj|d:\\cursos\\c#\\c-intermedio\\justgrill\\justgrill.infraestructure\\context\\justgrillcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FBC3809E-8685-4615-8C54-58181224E964}|..\\JustGrill.Infraestructure\\JustGrill.Infraestructure.csproj|d:\\cursos\\c#\\c-intermedio\\justgrill\\justgrill.infraestructure\\repositories\\mock\\empleadomockrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBC3809E-8685-4615-8C54-58181224E964}|..\\JustGrill.Infraestructure\\JustGrill.Infraestructure.csproj|d:\\cursos\\c#\\c-intermedio\\justgrill\\justgrill.infraestructure\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57FEEC6D-7F91-419D-AD32-D6794B3F0FEC}|..\\JustGrill.IOC\\JustGrill.IOC.csproj|d:\\cursos\\c#\\c-intermedio\\justgrill\\justgrill.ioc\\dependencies\\empleadodependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBC3809E-8685-4615-8C54-58181224E964}|..\\JustGrill.Infraestructure\\JustGrill.Infraestructure.csproj|d:\\cursos\\c#\\c-intermedio\\justgrill\\justgrill.infraestructure\\core\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FBC3809E-8685-4615-8C54-58181224E964}|..\\JustGrill.Infraestructure\\JustGrill.Infraestructure.csproj|d:\\cursos\\c#\\c-intermedio\\justgrill\\justgrill.infraestructure\\repositories\\empleadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,65 +21,57 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 283,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 370,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Empleado.cs",
-              "DocumentMoniker": "D:\\Cursos\\C#\\C-Intermedio\\JustGrill\\JustGrill.Domain\\Entities\\Empleado.cs",
-              "RelativeDocumentMoniker": "Entities\\Empleado.cs",
-              "ToolTip": "D:\\Cursos\\C#\\C-Intermedio\\JustGrill\\JustGrill.Domain\\Entities\\Empleado.cs",
-              "RelativeToolTip": "Entities\\Empleado.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "DocumentIndex": 1,
+              "Title": "EmpleadoMockRep.cs",
+              "DocumentMoniker": "D:\\Cursos\\C#\\C-Intermedio\\JustGrill\\JustGrill.Infraestructure\\Repositories\\Mock\\EmpleadoMockRep.cs",
+              "RelativeDocumentMoniker": "..\\JustGrill.Infraestructure\\Repositories\\Mock\\EmpleadoMockRep.cs",
+              "ToolTip": "D:\\Cursos\\C#\\C-Intermedio\\JustGrill\\JustGrill.Infraestructure\\Repositories\\Mock\\EmpleadoMockRep.cs",
+              "RelativeToolTip": "..\\JustGrill.Infraestructure\\Repositories\\Mock\\EmpleadoMockRep.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T00:20:17.01Z",
+              "WhenOpened": "2024-06-06T01:30:35.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpleadoRepositoryTest.cs",
+              "DocumentMoniker": "D:\\Cursos\\C#\\C-Intermedio\\JustGrill\\JustGrill.Infraestructure.Text\\EmpleadoRepositoryTest.cs",
+              "RelativeDocumentMoniker": "..\\JustGrill.Infraestructure.Text\\EmpleadoRepositoryTest.cs",
+              "ToolTip": "D:\\Cursos\\C#\\C-Intermedio\\JustGrill\\JustGrill.Infraestructure.Text\\EmpleadoRepositoryTest.cs",
+              "RelativeToolTip": "..\\JustGrill.Infraestructure.Text\\EmpleadoRepositoryTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T00:18:44.209Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BaseRepository.cs",
-              "DocumentMoniker": "D:\\Cursos\\C#\\C-Intermedio\\JustGrill\\JustGrill.Infraestructure\\Core\\BaseRepository.cs",
-              "RelativeDocumentMoniker": "..\\JustGrill.Infraestructure\\Core\\BaseRepository.cs",
-              "ToolTip": "D:\\Cursos\\C#\\C-Intermedio\\JustGrill\\JustGrill.Infraestructure\\Core\\BaseRepository.cs",
-              "RelativeToolTip": "..\\JustGrill.Infraestructure\\Core\\BaseRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAwAAAA",
+              "Title": "EmpleadoRepository.cs",
+              "DocumentMoniker": "D:\\Cursos\\C#\\C-Intermedio\\JustGrill\\JustGrill.Infraestructure\\Repositories\\EmpleadoRepository.cs",
+              "RelativeDocumentMoniker": "..\\JustGrill.Infraestructure\\Repositories\\EmpleadoRepository.cs",
+              "ToolTip": "D:\\Cursos\\C#\\C-Intermedio\\JustGrill\\JustGrill.Infraestructure\\Repositories\\EmpleadoRepository.cs",
+              "RelativeToolTip": "..\\JustGrill.Infraestructure\\Repositories\\EmpleadoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T19:04:02.511Z"
+              "WhenOpened": "2024-06-05T15:00:59.615Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "JustGrillContext.cs",
-              "DocumentMoniker": "D:\\Cursos\\C#\\C-Intermedio\\JustGrill\\JustGrill.Infraestructure\\Context\\JustGrillContext.cs",
-              "RelativeDocumentMoniker": "..\\JustGrill.Infraestructure\\Context\\JustGrillContext.cs",
-              "ToolTip": "D:\\Cursos\\C#\\C-Intermedio\\JustGrill\\JustGrill.Infraestructure\\Context\\JustGrillContext.cs",
-              "RelativeToolTip": "..\\JustGrill.Infraestructure\\Context\\JustGrillContext.cs",
+              "DocumentIndex": 2,
+              "Title": "EmpleadoDependency.cs",
+              "DocumentMoniker": "D:\\Cursos\\C#\\C-Intermedio\\JustGrill\\JustGrill.IOC\\Dependencies\\EmpleadoDependency.cs",
+              "RelativeDocumentMoniker": "..\\JustGrill.IOC\\Dependencies\\EmpleadoDependency.cs",
+              "ToolTip": "D:\\Cursos\\C#\\C-Intermedio\\JustGrill\\JustGrill.IOC\\Dependencies\\EmpleadoDependency.cs",
+              "RelativeToolTip": "..\\JustGrill.IOC\\Dependencies\\EmpleadoDependency.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T18:52:29.837Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 283,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ClienteRepository.cs",
-              "DocumentMoniker": "D:\\Cursos\\C#\\C-Intermedio\\JustGrill\\JustGrill.Infraestructure\\Repositories\\ClienteRepository.cs",
-              "RelativeDocumentMoniker": "..\\JustGrill.Infraestructure\\Repositories\\ClienteRepository.cs",
-              "ToolTip": "D:\\Cursos\\C#\\C-Intermedio\\JustGrill\\JustGrill.Infraestructure\\Repositories\\ClienteRepository.cs",
-              "RelativeToolTip": "..\\JustGrill.Infraestructure\\Repositories\\ClienteRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T19:37:57.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T15:27:22.994Z"
             }
           ]
         }

@@ -1,0 +1,16 @@
+D:\Cursos\C#\C-Intermedio\JustGrill\JustGrill.Infraestructure\bin\Debug\net8.0\JustGrill.Infraestructure.deps.json
+D:\Cursos\C#\C-Intermedio\JustGrill\JustGrill.Infraestructure\bin\Debug\net8.0\JustGrill.Infraestructure.dll
+D:\Cursos\C#\C-Intermedio\JustGrill\JustGrill.Infraestructure\bin\Debug\net8.0\JustGrill.Infraestructure.pdb
+D:\Cursos\C#\C-Intermedio\JustGrill\JustGrill.Infraestructure\bin\Debug\net8.0\JustGrill.Domain.dll
+D:\Cursos\C#\C-Intermedio\JustGrill\JustGrill.Infraestructure\bin\Debug\net8.0\JustGrill.Domain.pdb
+D:\Cursos\C#\C-Intermedio\JustGrill\JustGrill.Infraestructure\obj\Debug\net8.0\JustGrill.Infraestructure.csproj.AssemblyReference.cache
+D:\Cursos\C#\C-Intermedio\JustGrill\JustGrill.Infraestructure\obj\Debug\net8.0\JustGrill.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C#\C-Intermedio\JustGrill\JustGrill.Infraestructure\obj\Debug\net8.0\JustGrill.Infraestructure.AssemblyInfoInputs.cache
+D:\Cursos\C#\C-Intermedio\JustGrill\JustGrill.Infraestructure\obj\Debug\net8.0\JustGrill.Infraestructure.AssemblyInfo.cs
+D:\Cursos\C#\C-Intermedio\JustGrill\JustGrill.Infraestructure\obj\Debug\net8.0\JustGrill.Infraestructure.csproj.CoreCompileInputs.cache
+D:\Cursos\C#\C-Intermedio\JustGrill\JustGrill.Infraestructure\obj\Debug\net8.0\JustGrill.Infraestructure.sourcelink.json
+D:\Cursos\C#\C-Intermedio\JustGrill\JustGrill.Infraestructure\obj\Debug\net8.0\JustGril.E5133868.Up2Date
+D:\Cursos\C#\C-Intermedio\JustGrill\JustGrill.Infraestructure\obj\Debug\net8.0\JustGrill.Infraestructure.dll
+D:\Cursos\C#\C-Intermedio\JustGrill\JustGrill.Infraestructure\obj\Debug\net8.0\refint\JustGrill.Infraestructure.dll
+D:\Cursos\C#\C-Intermedio\JustGrill\JustGrill.Infraestructure\obj\Debug\net8.0\JustGrill.Infraestructure.pdb
+D:\Cursos\C#\C-Intermedio\JustGrill\JustGrill.Infraestructure\obj\Debug\net8.0\ref\JustGrill.Infraestructure.dll
