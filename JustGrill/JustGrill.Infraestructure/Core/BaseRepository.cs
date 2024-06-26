@@ -55,15 +55,3 @@ namespace JustGrill.Infraestructure.Core
         }
     }
 }
-
-
-/*
- * 
- * 
-  INSERT INTO DetalleFacturas (DetalleID, FacturaID, MenuID, Cantidad, Precio)
-
-
-  INSERT INTO Pedidos (PedidoID, ClienteID, MesaID, FechaPedido, Total)
-  VALUES
-  (1, 1, 1, '2024-06-05', 1873.74);
-*/

@@ -15,20 +15,6 @@ namespace JustGrill.Infraestructure.Repositories
         {
             _context = dbContext;
         }
-        /*
-        public List<EmpleadoModel> GetEmpleados()
-        {
-            var empleado = (from em in _context.Empleado
-                           where em.Deleted == false
-                           select new EmpleadoModel() {
-                               EmpleadoID = em.EmpleadoID,
-                               Nombre = em.Nombre,
-                               Apellido = em.Apellido,
-                               Cargo = em.Cargo
-                           }).ToList();
-
-            return empleado;
-        }*/
         public List<EmpleadoModel> GetEmpleados()
         {
             var empleados = _context.Empleado.Select(cd => new EmpleadoModel()
@@ -42,31 +28,37 @@ namespace JustGrill.Infraestructure.Repositories
             return empleados;
         }
 
-        public override Task Save(Empleado entity)
+        public override async Task Save(Empleado entity)
         {
-            if (entity is null) throw new ArgumentNullException("La entidad empleado no puede ser nulo");
+            if (entity is null) 
+                throw new ArgumentNullException("La entidad empleado no puede ser nulo");
 
-            return base.Save(entity);
+            await base.Save(entity);
         }
         public override Task Save(List<Empleado> entities)
         {
-            if (entities is null) throw new ArgumentNullException("La entidad empleado no puede ser nulo.");
+            if (entities is null) 
+                throw new ArgumentNullException("La entidad empleado no puede ser nulo.");
 
-            if (!entities.Any()) throw new EmpleadoException("Debe proporcionar por lo menos un empleado.");
+            if (!entities.Any()) 
+                throw new EmpleadoException("Debe proporcionar por lo menos un empleado.");
 
             return base.Save(entities);
         }
         public override Task Update(Empleado entity)
         {
-            if (entity is null) throw new ArgumentNullException("La entidad empleado no puede ser nulo");
+            if (entity is null) 
+                throw new ArgumentNullException("La entidad empleado no puede ser nulo");
 
             return base.Update(entity);
         }
         public override Task Update(List<Empleado> entities)
         {
-            if (entities is null) throw new ArgumentNullException("La entidad empleado no puede ser nulo.");
+            if (entities is null) 
+                throw new ArgumentNullException("La entidad empleado no puede ser nulo.");
 
-            if (!entities.Any()) throw new EmpleadoException("Debe proporcionar por lo menos un empleado.");
+            if (!entities.Any()) 
+                throw new EmpleadoException("Debe proporcionar por lo menos un empleado.");
 
             return base.Update(entities);
         }

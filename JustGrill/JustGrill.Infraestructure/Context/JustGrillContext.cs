@@ -11,8 +11,9 @@ namespace JustGrill.Infraestructure.Context
         }
 
         #region "Entities"
-        /*
+        
         public DbSet<Cliente> Cliente { get; set; }
+        /*
         public DbSet<DetalleFacturas> DetalleFacturas { get; set; }
         public DbSet<DetallePedido> DetallePedido { get; set; }
         */
@@ -20,8 +21,10 @@ namespace JustGrill.Infraestructure.Context
         /*
         public DbSet<Factura> Factura { get; set; }
         public DbSet<Guarniciones> Guarniciones { get; set; }
+        */
         public DbSet<MenuBebida> MenuBebida { get; set; }
         public DbSet<MenuComida> MenuComida { get; set; }
+        /*
         public DbSet<Mesa> Mesas { get; set; }
         public DbSet<Pedido> Pedido { get; set; }
         public DbSet<TerminoCoccion> TerminoCoccions { get; set; }

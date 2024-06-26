@@ -2,6 +2,6 @@
 {
     public class EntidadConNombre
     {
-        public required string Nombre { get; set; }
+        public string Nombre { get; set; }
     }
 }

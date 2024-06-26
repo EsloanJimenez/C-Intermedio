@@ -4,6 +4,5 @@ namespace JustGrill.Domain.Entities
 {
     public class MenuBebida : Menu
     {
-
     }
 }

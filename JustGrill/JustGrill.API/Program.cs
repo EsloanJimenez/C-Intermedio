@@ -8,6 +8,10 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddDbContext<JustGrillContext>(op => op.UseSqlServer(builder.Configuration.GetConnectionString("JustGrillContext")));
 
+#region "REGISTRO DE COMPONENTE"
+
+#endregion
+
 builder.Services.AddEmpleadoDependency();
 
 builder.Services.AddControllers();

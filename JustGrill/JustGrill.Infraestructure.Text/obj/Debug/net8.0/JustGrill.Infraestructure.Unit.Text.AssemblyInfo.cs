@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JustGrill.Infraestructure.Unit.Text")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7a101a5e349fe5cb4f85a0e5868fe6d3f497c1e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87291ad2113c8d4fab594dfd0eccce3f78217392")]
 [assembly: System.Reflection.AssemblyProductAttribute("JustGrill.Infraestructure.Unit.Text")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JustGrill.Infraestructure.Unit.Text")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

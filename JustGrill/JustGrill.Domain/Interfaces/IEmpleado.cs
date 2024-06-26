@@ -6,6 +6,5 @@ namespace JustGrill.Domain.Interfaces
     public interface IEmpleado : IBaseRepository<Empleado>
     {
         List<EmpleadoModel> GetEmpleados();
-        //List<EmpleadoModel> GetEmpleadosById(int empleadoId);
     }
 }
